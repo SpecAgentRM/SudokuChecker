@@ -1,0 +1,15 @@
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.csproj.AssemblyReference.cache
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.AssemblyInfoInputs.cache
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.AssemblyInfo.cs
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\bin\Debug\net6.0\SudokuChecker.exe
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\bin\Debug\net6.0\SudokuChecker.deps.json
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\bin\Debug\net6.0\SudokuChecker.runtimeconfig.json
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\bin\Debug\net6.0\SudokuChecker.dll
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\bin\Debug\net6.0\SudokuChecker.pdb
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.dll
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\refint\SudokuChecker.dll
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.pdb
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\SudokuChecker.genruntimeconfig.cache
+C:\Users\rafal\source\repos\SudokuChecker\SudokuChecker\obj\Debug\net6.0\ref\SudokuChecker.dll
